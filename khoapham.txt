@@ -1,1 +1,3 @@
 hello ta la cuong day
+
+hoc them git -a -m"comment"
